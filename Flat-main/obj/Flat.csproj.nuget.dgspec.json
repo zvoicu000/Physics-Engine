@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Projects\\PhysicsFlat\\Flat-main\\Flat.csproj": {}
+  },
+  "projects": {
+    "G:\\Projects\\PhysicsFlat\\Flat-main\\Flat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Projects\\PhysicsFlat\\Flat-main\\Flat.csproj",
+        "projectName": "Flat",
+        "projectPath": "G:\\Projects\\PhysicsFlat\\Flat-main\\Flat.csproj",
+        "packagesPath": "C:\\Users\\Bogdy\\.nuget\\packages\\",
+        "outputPath": "G:\\Projects\\PhysicsFlat\\Flat-main\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net60"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "targetAlias": "net6.0",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
