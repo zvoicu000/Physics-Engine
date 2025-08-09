@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace PhysicsFlat
+namespace FlatPhysics
 {
     public readonly struct FlatAABB
     {
@@ -14,6 +12,7 @@ namespace PhysicsFlat
             this.Min = min;
             this.Max = max;
         }
+
         public FlatAABB(float minX, float minY, float maxX, float maxY)
         {
             this.Min = new FlatVector(minX, minY);

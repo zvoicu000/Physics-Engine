@@ -1,12 +1,57 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\Projects\\PhysicsFlat\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Projects\\PhysicsFlat\\PhysicsFlat\\FlatBody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhysicsFlat\\FlatBody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Projects\\PhysicsFlat\\PhysicsFlat\\FlatWorld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhysicsFlat\\FlatWorld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlatBody.cs",
+              "DocumentMoniker": "G:\\Projects\\PhysicsFlat\\PhysicsFlat\\FlatBody.cs",
+              "RelativeDocumentMoniker": "PhysicsFlat\\FlatBody.cs",
+              "ToolTip": "G:\\Projects\\PhysicsFlat\\PhysicsFlat\\FlatBody.cs",
+              "RelativeToolTip": "PhysicsFlat\\FlatBody.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAADwvzABAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:02:46.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlatWorld.cs",
+              "DocumentMoniker": "G:\\Projects\\PhysicsFlat\\PhysicsFlat\\FlatWorld.cs",
+              "RelativeDocumentMoniker": "PhysicsFlat\\FlatWorld.cs",
+              "ToolTip": "G:\\Projects\\PhysicsFlat\\PhysicsFlat\\FlatWorld.cs",
+              "RelativeToolTip": "PhysicsFlat\\FlatWorld.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv6wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:02:33.655Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

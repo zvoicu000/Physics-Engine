@@ -7,3 +7,5 @@ G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\PhysicsFlat.Assembl
 G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\PhysicsFlat.csproj.CoreCompileInputs.cache
 G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\PhysicsFlat.dll
 G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\PhysicsFlat.pdb
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\PhysicsFlat.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\PhysicsFlat.sourcelink.json

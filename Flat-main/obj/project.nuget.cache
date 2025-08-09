@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "DiCkfH1VPU3jn53ELcR/RNEZtgBaAe5y81/NB8zXWvVPdByKn14zc4WNF6UsPfFSN4NGFdXtVWgV1U9ILRL6Lg==",
+  "dgSpecHash": "KOlcABvmDeo=",
   "success": true,
   "projectFilePath": "G:\\Projects\\PhysicsFlat\\Flat-main\\Flat.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Bogdy\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Bogdy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Bogdy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Bogdy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

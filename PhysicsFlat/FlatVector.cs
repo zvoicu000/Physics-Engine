@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace PhysicsFlat
+namespace FlatPhysics
 {
     public readonly struct FlatVector
     {
@@ -11,7 +9,7 @@ namespace PhysicsFlat
 
         public static readonly FlatVector Zero = new FlatVector(0f, 0f);
 
-        public FlatVector(float x,float y)
+        public FlatVector(float x, float y)
         {
             this.X = x;
             this.Y = y;
@@ -19,8 +17,9 @@ namespace PhysicsFlat
 
         public static FlatVector operator +(FlatVector a, FlatVector b)
         {
-            return new FlatVector(a.X+b.X, a.Y+b.Y);
+            return new FlatVector(a.X + b.X, a.Y + b.Y);
         }
+
         public static FlatVector operator -(FlatVector a, FlatVector b)
         {
             return new FlatVector(a.X - b.X, a.Y - b.Y);
@@ -36,6 +35,11 @@ namespace PhysicsFlat
             return new FlatVector(v.X * s, v.Y * s);
         }
 
+        public static FlatVector operator *(float s, FlatVector v)
+        {
+            return new FlatVector(v.X * s, v.Y * s);
+        }
+
         public static FlatVector operator /(FlatVector v, float s)
         {
             return new FlatVector(v.X / s, v.Y / s);
@@ -45,8 +49,7 @@ namespace PhysicsFlat
         {
             return new FlatVector(
                 transform.Cos * v.X - transform.Sin * v.Y + transform.PositionX,
-                transform.Sin * v.X + transform.Cos * v.Y + transform.PositionY
-                );
+                transform.Sin * v.X + transform.Cos * v.Y + transform.PositionY);
         }
 
         public bool Equals(FlatVector other)
@@ -56,10 +59,11 @@ namespace PhysicsFlat
 
         public override bool Equals(object obj)
         {
-            if(obj is FlatVector other)
+            if (obj is FlatVector other)
             {
                 return this.Equals(other);
             }
+
             return false;
         }
 
@@ -70,7 +74,7 @@ namespace PhysicsFlat
 
         public override string ToString()
         {
-            return $"X: {this.X}, Y:{this.Y}";
+            return $"X: {this.X}, Y: {this.Y}";
         }
     }
 }

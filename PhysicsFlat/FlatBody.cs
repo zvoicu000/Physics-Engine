@@ -1,45 +1,43 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace PhysicsFlat
+namespace FlatPhysics
 {
     public enum ShapeType
     {
-        Circle=0,
-        Box=1
+        Circle = 0,
+        Box = 1,
     }
 
     public sealed class FlatBody
     {
         private FlatVector position;
         private FlatVector linearVelocity;
-        private float rotation;
-        private float rotationalVelocity;
-
+        private float angle;
+        private float angularVelocity;
         private FlatVector force;
 
+        public readonly ShapeType ShapeType;
         public readonly float Density;
         public readonly float Mass;
         public readonly float InvMass;
         public readonly float Restitution;
         public readonly float Area;
-
+        public readonly float Inertia;
+        public readonly float InvInertia;
         public readonly bool IsStatic;
-
         public readonly float Radius;
         public readonly float Width;
         public readonly float Height;
+        public readonly float StaticFriction;
+        public readonly float DynamicFriction;
 
         private readonly FlatVector[] vertices;
-        public readonly int[] Triangles;
         private FlatVector[] transformedVertices;
         private FlatAABB aabb;
 
         private bool transformUpdateRequired;
         private bool aabbUpdateRequired;
 
-        public readonly ShapeType ShapeType;
 
         public FlatVector Position
         {
@@ -52,46 +50,49 @@ namespace PhysicsFlat
             internal set { this.linearVelocity = value; }
         }
 
-        private FlatBody(FlatVector position, float density, float mass, float restitution, float area,
-            bool isStatic, float radius, float width, float height, ShapeType shapeType)
+        public float Angle
         {
-            this.position = position;
-            this.linearVelocity = FlatVector.Zero;
-            this.rotation = 0f;
-            this.rotationalVelocity = 0f;
+            get { return this.angle; }
+        }
 
+        public float AngularVelocity
+        {
+            get { return this.angularVelocity; }
+            internal set { this.angularVelocity = value; }
+        }
+
+        private FlatBody(float density, float mass, float inertia, float restitution, float area,
+            bool isStatic, float radius, float width, float height, FlatVector[] vertices, ShapeType shapeType)
+        {
+            this.position = FlatVector.Zero;
+            this.linearVelocity = FlatVector.Zero;
+            this.angle = 0f;
+            this.angularVelocity = 0f;
             this.force = FlatVector.Zero;
 
+            this.ShapeType = shapeType;
             this.Density = density;
             this.Mass = mass;
+            this.InvMass = mass > 0f ? 1f / mass : 0f;
+            this.Inertia = inertia;
+            this.InvInertia = inertia > 0f ? 1f / inertia : 0f;
             this.Restitution = restitution;
             this.Area = area;
-
             this.IsStatic = isStatic;
             this.Radius = radius;
             this.Width = width;
             this.Height = height;
-            this.ShapeType = shapeType;
-
-            if (!this.IsStatic)
-            {
-                this.InvMass = 1f / this.Mass;
-            }
-            else
-            {
-                this.InvMass = 0f;
-            }
+            this.StaticFriction = 0.6f;
+            this.DynamicFriction = 0.4f;
 
             if (this.ShapeType is ShapeType.Box)
             {
-                this.vertices = FlatBody.CreateBoxVertices(this.Width, this.Height);
-                this.Triangles = FlatBody.CreateBoxTriangles();
+                this.vertices = vertices;
                 this.transformedVertices = new FlatVector[this.vertices.Length];
             }
             else
             {
                 this.vertices = null;
-                Triangles = null;
                 this.transformedVertices = null;
             }
 
@@ -131,13 +132,19 @@ namespace PhysicsFlat
         {
             if (this.transformUpdateRequired)
             {
-                FlatTransform transform = new FlatTransform(this.position, this.rotation);
+                FlatTransform transform = new FlatTransform(this.position, this.angle);
 
                 for (int i = 0; i < this.vertices.Length; i++)
                 {
                     FlatVector v = this.vertices[i];
                     this.transformedVertices[i] = FlatVector.Transform(v, transform);
                 }
+
+                FlatWorld.TransformCount++;
+            }
+            else
+            {
+                FlatWorld.NoTransformCount++;
             }
 
             this.transformUpdateRequired = false;
@@ -205,7 +212,7 @@ namespace PhysicsFlat
             this.linearVelocity += gravity * time;
             this.position += this.linearVelocity * time;
 
-            this.rotation += this.rotationalVelocity * time;
+            this.angle += this.angularVelocity * time;
 
             this.force = FlatVector.Zero;
             this.transformUpdateRequired = true;
@@ -228,7 +235,14 @@ namespace PhysicsFlat
 
         public void Rotate(float amount)
         {
-            this.rotation += amount;
+            this.angle += amount;
+            this.transformUpdateRequired = true;
+            this.aabbUpdateRequired = true;
+        }
+
+        public void RotateTo(float angle)
+        {
+            this.angle = angle;
             this.transformUpdateRequired = true;
             this.aabbUpdateRequired = true;
         }
@@ -238,21 +252,23 @@ namespace PhysicsFlat
             this.force = amount;
         }
 
-        public static bool CreateCircleBody(float radius, FlatVector position, float density, bool isStatic, float restitution, out FlatBody body, out string errorMessage)
+        public static bool CreateCircleBody(float radius, float density, bool isStatic, float restitution, out FlatBody body, out string errorMessage)
         {
             body = null;
             errorMessage = string.Empty;
 
             float area = radius * radius * MathF.PI;
 
-            if(area<FlatWorld.MinBodySize)
+            if (area < FlatWorld.MinBodySize)
             {
                 errorMessage = $"Circle radius is too small. Min circle area is {FlatWorld.MinBodySize}.";
+                return false;
             }
 
             if (area > FlatWorld.MaxBodySize)
             {
                 errorMessage = $"Circle radius is too large. Max circle area is {FlatWorld.MaxBodySize}.";
+                return false;
             }
 
             if (density < FlatWorld.MinDensity)
@@ -269,14 +285,21 @@ namespace PhysicsFlat
 
             restitution = FlatMath.Clamp(restitution, 0f, 1f);
 
-            // mass = area * depth * density
-            float mass = area * density;
+            float mass = 0f;
+            float inertia = 0f;
 
-            body = new FlatBody(position, density, mass, restitution, area, isStatic, radius, 0f, 0f, ShapeType.Circle);
+            if (!isStatic)
+            {
+                // mass = area * depth * density
+                mass = area * density;
+                inertia = (1f / 2f) * mass * radius * radius;
+            }
+
+            body = new FlatBody(density, mass, inertia, restitution, area, isStatic, radius, 0f, 0f, null, ShapeType.Circle);
             return true;
         }
 
-        public static bool CreateBoxBody(float width, float height, FlatVector position, float density, bool isStatic, float restitution, out FlatBody body, out string errorMessage)
+        public static bool CreateBoxBody(float width, float height, float density, bool isStatic, float restitution, out FlatBody body, out string errorMessage)
         {
             body = null;
             errorMessage = string.Empty;
@@ -309,12 +332,20 @@ namespace PhysicsFlat
 
             restitution = FlatMath.Clamp(restitution, 0f, 1f);
 
-            // mass = area * depth * density
-            float mass = area * density;
+            float mass = 0f;
+            float inertia = 0f;
 
-            body = new FlatBody(position, density, mass, restitution, area, isStatic, 0f, width, height, ShapeType.Box);
+            if (!isStatic)
+            {
+                // mass = area * depth * density
+                mass = area * density;
+                inertia = (1f / 12) * mass * (width * width + height * height);
+            }
+
+            FlatVector[] vertices = FlatBody.CreateBoxVertices(width, height);
+
+            body = new FlatBody(density, mass, inertia, restitution, area, isStatic, 0f, width, height, vertices, ShapeType.Box);
             return true;
         }
-
     }
 }
