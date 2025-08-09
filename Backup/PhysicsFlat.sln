@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36401.2 d17.14
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36227.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhysicsFlat", "PhysicsFlat\PhysicsFlat.csproj", "{B836DC57-2C30-4CAB-9582-07669C978682}"
 EndProject

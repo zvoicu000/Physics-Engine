@@ -1,0 +1,9 @@
+G:\Projects\PhysicsFlat\PhysicsFlat\bin\Debug\netstandard2.1\PhysicsFlat.deps.json
+G:\Projects\PhysicsFlat\PhysicsFlat\bin\Debug\netstandard2.1\PhysicsFlat.dll
+G:\Projects\PhysicsFlat\PhysicsFlat\bin\Debug\netstandard2.1\PhysicsFlat.pdb
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\PhysicsFlat.csproj.AssemblyReference.cache
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\PhysicsFlat.AssemblyInfoInputs.cache
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\PhysicsFlat.AssemblyInfo.cs
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\PhysicsFlat.csproj.CoreCompileInputs.cache
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\PhysicsFlat.dll
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\PhysicsFlat.pdb
