@@ -3,12 +3,7 @@
   "WorkspaceRootPath": "G:\\Projects\\PhysicsFlat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B836DC57-2C30-4CAB-9582-07669C978682}|PhysicsFlat\\PhysicsFlat.csproj|g:\\projects\\physicsflat\\physicsflat\\flatbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B836DC57-2C30-4CAB-9582-07669C978682}|PhysicsFlat\\PhysicsFlat.csproj|solutionrelative:physicsflat\\flatbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B836DC57-2C30-4CAB-9582-07669C978682}|PhysicsFlat\\PhysicsFlat.csproj|g:\\projects\\physicsflat\\physicsflat\\flatworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B836DC57-2C30-4CAB-9582-07669C978682}|PhysicsFlat\\PhysicsFlat.csproj|solutionrelative:physicsflat\\flatworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A407F5E-BD59-02D8-F268-6C5B3B29CBBE}|..\\PhysicsTester\\Physics tester\\Physics tester.csproj|g:\\projects\\physicstester\\physics tester\\physics tester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +13,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FlatBody.cs",
-              "DocumentMoniker": "G:\\Projects\\PhysicsFlat\\PhysicsFlat\\FlatBody.cs",
-              "RelativeDocumentMoniker": "PhysicsFlat\\FlatBody.cs",
-              "ToolTip": "G:\\Projects\\PhysicsFlat\\PhysicsFlat\\FlatBody.cs",
-              "RelativeToolTip": "PhysicsFlat\\FlatBody.cs",
-              "ViewState": "AgIAABkBAAAAAAAAAADwvzABAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T11:02:46.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FlatWorld.cs",
-              "DocumentMoniker": "G:\\Projects\\PhysicsFlat\\PhysicsFlat\\FlatWorld.cs",
-              "RelativeDocumentMoniker": "PhysicsFlat\\FlatWorld.cs",
-              "ToolTip": "G:\\Projects\\PhysicsFlat\\PhysicsFlat\\FlatWorld.cs",
-              "RelativeToolTip": "PhysicsFlat\\FlatWorld.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAADwv6wAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T11:02:33.655Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Physics tester.csproj",
+              "DocumentMoniker": "G:\\Projects\\PhysicsTester\\Physics tester\\Physics tester.csproj",
+              "RelativeDocumentMoniker": "..\\PhysicsTester\\Physics tester\\Physics tester.csproj",
+              "ToolTip": "G:\\Projects\\PhysicsTester\\Physics tester\\Physics tester.csproj",
+              "RelativeToolTip": "..\\PhysicsTester\\Physics tester\\Physics tester.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-09T13:01:07.454Z",
+              "EditorCaption": ""
             }
           ]
         }

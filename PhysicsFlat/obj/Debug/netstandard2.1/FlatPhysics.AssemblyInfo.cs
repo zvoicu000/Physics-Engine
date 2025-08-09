@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlatPhysics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+409ad94c3c9c95e4e99c84b9b844e2f46c826bdb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65c1557a6899c3e12ea6a397c49cb576d7995c5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlatPhysics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlatPhysics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
