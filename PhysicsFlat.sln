@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatPhysics", "PhysicsFlat\FlatPhysics.csproj", "{32AD4319-18B9-2B8E-BECB-BFF99A7AA736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Physics tester", "..\PhysicsTester\Physics tester\Physics tester.csproj", "{7A407F5E-BD59-02D8-F268-6C5B3B29CBBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32AD4319-18B9-2B8E-BECB-BFF99A7AA736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AD4319-18B9-2B8E-BECB-BFF99A7AA736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AD4319-18B9-2B8E-BECB-BFF99A7AA736}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{32AD4319-18B9-2B8E-BECB-BFF99A7AA736}.Debug|x64.Build.0 = Debug|Any CPU
+		{32AD4319-18B9-2B8E-BECB-BFF99A7AA736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AD4319-18B9-2B8E-BECB-BFF99A7AA736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32AD4319-18B9-2B8E-BECB-BFF99A7AA736}.Release|x64.ActiveCfg = Release|Any CPU
+		{32AD4319-18B9-2B8E-BECB-BFF99A7AA736}.Release|x64.Build.0 = Release|Any CPU
+		{7A407F5E-BD59-02D8-F268-6C5B3B29CBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A407F5E-BD59-02D8-F268-6C5B3B29CBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A407F5E-BD59-02D8-F268-6C5B3B29CBBE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7A407F5E-BD59-02D8-F268-6C5B3B29CBBE}.Debug|x64.Build.0 = Debug|Any CPU
+		{7A407F5E-BD59-02D8-F268-6C5B3B29CBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A407F5E-BD59-02D8-F268-6C5B3B29CBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A407F5E-BD59-02D8-F268-6C5B3B29CBBE}.Release|x64.ActiveCfg = Release|Any CPU
+		{7A407F5E-BD59-02D8-F268-6C5B3B29CBBE}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BBD55BE-190A-4397-9C52-E54B46FE13C3}
+	EndGlobalSection
+EndGlobal

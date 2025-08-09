@@ -1,0 +1,10 @@
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\FlatPhysics.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\FlatPhysics.AssemblyInfoInputs.cache
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\FlatPhysics.AssemblyInfo.cs
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\FlatPhysics.csproj.CoreCompileInputs.cache
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\FlatPhysics.sourcelink.json
+G:\Projects\PhysicsFlat\PhysicsFlat\bin\Debug\netstandard2.1\FlatPhysics.deps.json
+G:\Projects\PhysicsFlat\PhysicsFlat\bin\Debug\netstandard2.1\FlatPhysics.dll
+G:\Projects\PhysicsFlat\PhysicsFlat\bin\Debug\netstandard2.1\FlatPhysics.pdb
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\FlatPhysics.dll
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Debug\netstandard2.1\FlatPhysics.pdb

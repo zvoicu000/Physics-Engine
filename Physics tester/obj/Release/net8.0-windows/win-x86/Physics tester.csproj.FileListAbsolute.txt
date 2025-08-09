@@ -1,0 +1,81 @@
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\Content\Default.xnb
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\Physics tester.exe
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\Physics tester.deps.json
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\Physics tester.runtimeconfig.json
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\Physics tester.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\Physics tester.pdb
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\MonoGame.Framework.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\SOS.NETCore.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\System.Runtime.InteropServices.WindowsRuntime.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\SharpDX.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\SharpDX.Direct2D1.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\SharpDX.Direct3D11.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\SharpDX.Direct3D9.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\SharpDX.DXGI.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\SharpDX.Mathematics.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\SharpDX.MediaFoundation.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\SharpDX.XAudio2.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\SharpDX.XInput.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-console-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-debug-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-file-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-file-l1-2-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-file-l2-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-handle-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-heap-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-localization-l1-2-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-memory-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-profile-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-string-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-synch-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-synch-l1-2-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-core-util-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-math-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-private-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-process-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-string-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-time-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\dbgshim.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\mscordaccore_x86_x86_4.6.30411.01.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\mscorrc.debug.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\sos.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\sos_x86_x86_4.6.30411.01.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\ucrtbase.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\apphost.exe
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\hostpolicy.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\hostfxr.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\FlatPhysics.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Release\net8.0-windows\win-x86\FlatPhysics.pdb
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\win-x86\Physics tester.csproj.AssemblyReference.cache
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\win-x86\Physics tester.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\win-x86\Physics tester.AssemblyInfoInputs.cache
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\win-x86\Physics tester.AssemblyInfo.cs
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\win-x86\Physics tester.csproj.CoreCompileInputs.cache
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\win-x86\Physics .83E804BC.Up2Date
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\win-x86\Physics tester.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\win-x86\refint\Physics tester.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\win-x86\Physics tester.pdb
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\win-x86\Physics tester.genruntimeconfig.cache
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\win-x86\ref\Physics tester.dll

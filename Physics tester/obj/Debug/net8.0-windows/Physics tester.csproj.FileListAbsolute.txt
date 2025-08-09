@@ -1,0 +1,58 @@
+G:\Projects\Physics tester\Physics tester\obj\Debug\net8.0-windows\Physics tester.csproj.AssemblyReference.cache
+G:\Projects\Physics tester\Physics tester\obj\Debug\net8.0-windows\Physics tester.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Physics tester\Physics tester\obj\Debug\net8.0-windows\Physics tester.AssemblyInfoInputs.cache
+G:\Projects\Physics tester\Physics tester\obj\Debug\net8.0-windows\Physics tester.AssemblyInfo.cs
+G:\Projects\Physics tester\Physics tester\obj\Debug\net8.0-windows\Physics tester.csproj.CoreCompileInputs.cache
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\Content\Default.xnb
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\Physics tester.exe
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\Physics tester.deps.json
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\Physics tester.runtimeconfig.json
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\Physics tester.dll
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\Physics tester.pdb
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\SharpDX.dll
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+G:\Projects\Physics tester\Physics tester\obj\Debug\net8.0-windows\Physics .83E804BC.Up2Date
+G:\Projects\Physics tester\Physics tester\obj\Debug\net8.0-windows\Physics tester.dll
+G:\Projects\Physics tester\Physics tester\obj\Debug\net8.0-windows\refint\Physics tester.dll
+G:\Projects\Physics tester\Physics tester\obj\Debug\net8.0-windows\Physics tester.pdb
+G:\Projects\Physics tester\Physics tester\obj\Debug\net8.0-windows\Physics tester.genruntimeconfig.cache
+G:\Projects\Physics tester\Physics tester\obj\Debug\net8.0-windows\ref\Physics tester.dll
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\FlatPhysics.dll
+G:\Projects\Physics tester\Physics tester\bin\Debug\net8.0-windows\FlatPhysics.pdb
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\Content\Default.xnb
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\Physics tester.exe
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\Physics tester.deps.json
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\Physics tester.runtimeconfig.json
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\Physics tester.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\Physics tester.pdb
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\SharpDX.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\FlatPhysics.dll
+G:\Projects\PhysicsTester\Physics tester\bin\Debug\net8.0-windows\FlatPhysics.pdb
+G:\Projects\PhysicsTester\Physics tester\obj\Debug\net8.0-windows\Physics tester.csproj.AssemblyReference.cache
+G:\Projects\PhysicsTester\Physics tester\obj\Debug\net8.0-windows\Physics tester.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\PhysicsTester\Physics tester\obj\Debug\net8.0-windows\Physics tester.AssemblyInfoInputs.cache
+G:\Projects\PhysicsTester\Physics tester\obj\Debug\net8.0-windows\Physics tester.AssemblyInfo.cs
+G:\Projects\PhysicsTester\Physics tester\obj\Debug\net8.0-windows\Physics tester.csproj.CoreCompileInputs.cache
+G:\Projects\PhysicsTester\Physics tester\obj\Debug\net8.0-windows\Physics .83E804BC.Up2Date
+G:\Projects\PhysicsTester\Physics tester\obj\Debug\net8.0-windows\Physics tester.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Debug\net8.0-windows\refint\Physics tester.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Debug\net8.0-windows\Physics tester.pdb
+G:\Projects\PhysicsTester\Physics tester\obj\Debug\net8.0-windows\Physics tester.genruntimeconfig.cache
+G:\Projects\PhysicsTester\Physics tester\obj\Debug\net8.0-windows\ref\Physics tester.dll
