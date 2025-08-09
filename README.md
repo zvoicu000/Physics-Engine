@@ -24,3 +24,6 @@ This project is a fully functional physics engine implemented in C#. It supports
 3. To test the physics engine, run the `Game1.cs` MonoGame project which serves as a physics tester and demo scene.
 
 4. You can also integrate the physics engine into your own MonoGame projects or any .NET applications.
+
+## Contact
+📧 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/bogdan-andrei-voicu/) or via [Email] bogdanvoicu115@gmail.com.
