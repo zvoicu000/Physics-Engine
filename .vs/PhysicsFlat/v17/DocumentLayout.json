@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "G:\\Projects\\PhysicsFlat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A407F5E-BD59-02D8-F268-6C5B3B29CBBE}|..\\PhysicsTester\\Physics tester\\Physics tester.csproj|g:\\projects\\physicstester\\physics tester\\physics tester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{32AD4319-18B9-2B8E-BECB-BFF99A7AA736}|PhysicsFlat\\FlatPhysics.csproj|g:\\projects\\physicsflat\\physicsflat\\flatphysics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32AD4319-18B9-2B8E-BECB-BFF99A7AA736}|PhysicsFlat\\FlatPhysics.csproj|solutionrelative:physicsflat\\flatphysics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Physics tester.csproj",
-              "DocumentMoniker": "G:\\Projects\\PhysicsTester\\Physics tester\\Physics tester.csproj",
-              "RelativeDocumentMoniker": "..\\PhysicsTester\\Physics tester\\Physics tester.csproj",
-              "ToolTip": "G:\\Projects\\PhysicsTester\\Physics tester\\Physics tester.csproj",
-              "RelativeToolTip": "..\\PhysicsTester\\Physics tester\\Physics tester.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FlatPhysics.csproj",
+              "DocumentMoniker": "G:\\Projects\\PhysicsFlat\\PhysicsFlat\\FlatPhysics.csproj",
+              "RelativeDocumentMoniker": "PhysicsFlat\\FlatPhysics.csproj",
+              "ToolTip": "G:\\Projects\\PhysicsFlat\\PhysicsFlat\\FlatPhysics.csproj",
+              "RelativeToolTip": "PhysicsFlat\\FlatPhysics.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-09T13:01:07.454Z",
+              "WhenOpened": "2025-08-09T13:43:03.461Z",
               "EditorCaption": ""
             }
           ]

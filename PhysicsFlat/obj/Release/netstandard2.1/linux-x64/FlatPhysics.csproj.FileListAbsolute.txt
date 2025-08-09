@@ -1,0 +1,10 @@
+G:\Projects\PhysicsFlat\PhysicsFlat\bin\Release\netstandard2.1\linux-x64\FlatPhysics.deps.json
+G:\Projects\PhysicsFlat\PhysicsFlat\bin\Release\netstandard2.1\linux-x64\FlatPhysics.dll
+G:\Projects\PhysicsFlat\PhysicsFlat\bin\Release\netstandard2.1\linux-x64\FlatPhysics.pdb
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Release\netstandard2.1\linux-x64\FlatPhysics.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Release\netstandard2.1\linux-x64\FlatPhysics.AssemblyInfoInputs.cache
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Release\netstandard2.1\linux-x64\FlatPhysics.AssemblyInfo.cs
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Release\netstandard2.1\linux-x64\FlatPhysics.csproj.CoreCompileInputs.cache
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Release\netstandard2.1\linux-x64\FlatPhysics.sourcelink.json
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Release\netstandard2.1\linux-x64\FlatPhysics.dll
+G:\Projects\PhysicsFlat\PhysicsFlat\obj\Release\netstandard2.1\linux-x64\FlatPhysics.pdb

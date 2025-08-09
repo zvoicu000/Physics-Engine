@@ -1,0 +1,27 @@
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Physics tester
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Content/Default.xnb
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Physics tester.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Physics tester.deps.json
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Physics tester.runtimeconfig.json
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Physics tester.pdb
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\MonoGame.Framework.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\SOS.NETCore.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\System.Runtime.InteropServices.WindowsRuntime.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\SharpDX.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\SharpDX.Direct2D1.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\SharpDX.Direct3D11.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\SharpDX.Direct3D9.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\SharpDX.DXGI.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\SharpDX.Mathematics.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\SharpDX.MediaFoundation.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\SharpDX.XAudio2.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\SharpDX.XInput.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\libdbgshim.so
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\libsos.so
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\libsosplugin.so
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\sosdocsunix.txt
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\apphost
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\libhostpolicy.so
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\libhostfxr.so
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\FlatPhysics.dll
+G:\Projects\PhysicsTester\Physics tester\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\FlatPhysics.pdb
